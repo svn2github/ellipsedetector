@@ -1,0 +1,1 @@
+install Java Advanced Imaging 1.1.3 or newer from here https://jai.dev.java.net/binary-builds.html depending on your operating system
