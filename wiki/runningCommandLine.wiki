@@ -29,3 +29,9 @@ command line synopsis:
 
 
 if the tests are run 1 time, than the detected image is also output to the same folder as the source image.
+
+----
+
+Example of running on windows from command line:
+
+*>java -cp ;EllipseDetector.jar EllipseDetector Ellipse\data\E1.png 59 71 59 71 100 5000 0.05 1  Ellipse\data\E2.png 86 100 86 100 100 5000 0.05 1*
